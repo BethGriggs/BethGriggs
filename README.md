@@ -59,79 +59,7 @@ Outside of work, I enjoy 🧰 DIY projects, 🌱 growing food on my allotment, �
 
 </div>
 
----
-
-### <div align="center">Some Conferences & Talks</div>
-
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th>Date</th>
-      <th>Event</th>
-      <th>Talk</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Apr 2023</td>
-      <td>SurreyDevs</td>
-      <td><em>Evolution of Node.js</em></td>
-    </tr>
-    <tr>
-      <td>Dec 2022</td>
-      <td>FINOS NYC</td>
-      <td><em>Debugging Node.js Upgrades</em></td>
-    </tr>
-    <tr>
-      <td>Oct 2022</td>
-      <td>NodeConf.eu</td>
-      <td><em><a href="https://github.com/nodeshift/tutorial/blob/main/conferences/nodeconf.eu-2022.md">Elevating your applications to the Cloud</a></em></td>
-    </tr>
-    <tr>
-      <td>Jun 2022</td>
-      <td>OpenJS World</td>
-      <td><em><a href="https://www.youtube.com/watch?v=nd5KJbr_M2Q">Debugging your way through a Node.js upgrade</a></em></td>
-    </tr>
-    <tr>
-      <td>Mar 2022</td>
-      <td>CityJS London</td>
-      <td><em><a href="https://www.youtube.com/watch?v=iMhtwUPbwXs&t=9541s">Navigating the npm Ecosystem in the Enterprise</a></em></td>
-    </tr>
-    <tr>
-      <td>Jan 2022</td>
-      <td>DevConf.cz</td>
-      <td><em>Navigating the npm Ecosystem in the Enterprise</em></td>
-    </tr>
-    <tr>
-      <td>Oct 2021</td>
-      <td>NodeConf Remote</td>
-      <td><em>Cloud-native Node.js Applications (Workshop)</em></td>
-    </tr>
-    <tr>
-      <td>Oct 2021</td>
-      <td>NodeConf Remote</td>
-      <td><em><a href="https://www.youtube.com/watch?v=dzfAj7KNhcY">Navigating the npm Ecosystem in the Enterprise</a></em></td>
-    </tr>
-    <tr>
-      <td>Jun 2021</td>
-      <td>NearForm Presents</td>
-      <td><em>Node.js: Ask the Experts (Panel)</em></td>
-    </tr>
-    <tr>
-      <td>May 2021</td>
-      <td>OpenJS World</td>
-      <td><em><a href="https://www.youtube.com/watch?v=qDA58l3BfgQ">Open, open source (Keynote)</a></em></td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
-
-
----
-
+--- 
 ### <div align="center">Now Playing</div>
 
 <p align="center">
@@ -139,18 +67,3 @@ Outside of work, I enjoy 🧰 DIY projects, 🌱 growing food on my allotment, �
     <img src="https://lastfm-recently-played.vercel.app/api?user=behtx3" alt="Recently Played Tracks" />
   </a>
 </p>
-
----
-
-### <div align="center">Contact</div>
-
-<div align="center">
-
-<a href="https://github.com/bethgriggs">
-  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/bethgriggs/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
