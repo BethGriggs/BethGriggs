@@ -60,7 +60,6 @@ Outside of work, I enjoy 🧰 DIY projects, 🌱 growing food on my allotment, �
 </div>
 
 --- 
-### <div align="center">Now Playing</div>
 
 <p align="center">
   <a href="https://www.last.fm/user/behtx3">
